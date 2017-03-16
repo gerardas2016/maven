@@ -1,0 +1,1 @@
+Maven kontrolinio išeities kodas.
